@@ -315,8 +315,8 @@ function getImageDiv(imageId, extension, header, location)
     var html = ''
 
     var imageName = pad0(imageId, 4) + '.' + extension;
-    var thumbPath = '/img/thumb/' + imageName;
-    var fullPath = '/img/full/' + imageName;
+    var thumbPath = 'img/thumb/' + imageName;
+    var fullPath = 'img/full/' + imageName;
 
     html += '<article class="thumb">';
     html += '<a href="' + fullPath + '" class="image">';
