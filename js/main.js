@@ -347,6 +347,10 @@ function loadTravelImages()
     html += getImageDiv(44, 'jpg', 'Bus Stop', 'Little Cayman, Cayman Islands');
     html += getImageDiv(45, 'jpg', 'Central Caribbean Marine Institute', 'Little Cayman, Cayman Islands');
     html += getImageDiv(46, 'jpg', 'Point of Sand', 'Little Cayman, Cayman Islands');
+    html += getImageDiv(55, 'png', 'Rumney, New Hampshire');
+    html += getImageDiv(56, 'jpg', 'La Pedriza', 'Menzanares, Spain');
+    html += getImageDiv(53, 'jpg', 'La Pedriza', 'Menzanares, Spain');
+    html += getImageDiv(54, 'jpg', 'Alcázar of Segovia', 'Segovia, Spain');
     html += getImageDiv(49, 'jpg', 'Korketrekkeren', 'Oslo, Norway');
     html += getImageDiv(47, 'jpg', 'Tour Eiffel', 'Paris, France');
     html += getImageDiv(48, 'jpg', 'Château de Versailles', 'Versailles, France');
