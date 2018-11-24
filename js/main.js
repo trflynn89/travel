@@ -352,6 +352,9 @@ function loadTravelImages()
     html += getImageDiv(53, 'jpg', 'La Pedriza', 'Menzanares, Spain');
     html += getImageDiv(54, 'jpg', 'Alcázar of Segovia', 'Segovia, Spain');
     html += getImageDiv(49, 'jpg', 'Korketrekkeren', 'Oslo, Norway');
+    html += getImageDiv(57, 'png', 'Red River Gorge', 'Kentucky, US');
+    html += getImageDiv(58, 'png', 'Red River Gorge', 'Kentucky, US');
+    html += getImageDiv(59, 'png', 'Red River Gorge', 'Kentucky, US');
     html += getImageDiv(47, 'jpg', 'Tour Eiffel', 'Paris, France');
     html += getImageDiv(48, 'jpg', 'Château de Versailles', 'Versailles, France');
     html += getImageDiv(51, 'jpg', 'San Juan', 'Puerto Rico');
